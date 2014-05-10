@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.avianey</groupId>
     <artifactId>bolts-android-api</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <packaging>jar</packaging>
 	
 	<description>
@@ -38,7 +38,7 @@
         <url>https://github.com/avianey/bolts-api-android-maven</url>
         <developerConnection>scm:git:git@github.com/avianey/bolts-api-android-maven.git</developerConnection>
         <connection>scm:git:git://github.com/avianey/bolts-api-android-maven.git</connection>
-        <tag>HEAD</tag>
+        <tag>bolts-android-api-1.1.0</tag>
     </scm>
 
     <dependencies>
